@@ -40,7 +40,7 @@ Powerbi-Snapdeal-Project---INTERNSHIP/
 │   └── Internship Report.docx
 │
 ├── images/
-│   └── report image.pdf
+│   └── Snapdeal_PowerBI_dashboard.pdf
 │
 └── README.md
 
