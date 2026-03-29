@@ -24,13 +24,26 @@ This project was developed as part of my **Data Analytics Internship**, focusing
 
 ---
 
-## 📂 Project Files
+## 📂 Project Structure
+```text
+Powerbi-Snapdeal-Project---INTERNSHIP/
+│
+├── data/
+│   ├── snapdeal_products.csv
+│   └── snapdeal_mens_clothing_with_discount.csv
+│
+├── dashboard/
+│   ├── internship_hemananth.pbix
+│   └── snapdeal(task2).pbix
+│
+├── report/
+│   └── Internship Report.docx
+│
+├── images/
+│   └── report image.pdf
+│
+└── README.md
 
-* `snapdeal_products.csv` → Main dataset with product details
-* `snapdeal_mens_clothing_with_discount.csv` → Focused dataset (Men’s clothing)
-* `internship_hemananth.pbix` → Power BI dashboard file
-* `snapdeal(task2).pbix` → Additional dashboard
-* `Internship Report.docx` → Project documentation
 
 ---
 
