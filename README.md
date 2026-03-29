@@ -81,7 +81,9 @@ This project was developed as part of my **Data Analytics Internship**, focusing
 
 ## 👤 Author
 
-**[Your Name]**
+**HEMANANTH S**
+**hemananth0704@gmail.com**
+
 Data Analytics Intern
 
 ---
